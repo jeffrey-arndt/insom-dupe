@@ -43,6 +43,24 @@ collection:
         send: true
         store: true
       rebuildPath: true
+  - url: test3.org
+    name: New Request
+    meta:
+      id: req_91d47c6508f54866acfcaf1fdda0eeb2
+      created: 1793105335049
+      modified: 1793105340225
+      isPrivate: false
+      description: ""
+      sortKey: -1793105335049
+    method: GET
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
 cookieJar:
   name: Default Jar
   meta:
