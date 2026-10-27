@@ -25,6 +25,24 @@ collection:
         send: true
         store: true
       rebuildPath: true
+  - url: http://mockbin.org
+    name: New Request
+    meta:
+      id: req_63ba8021d2da430b98568bfed4c3b011
+      created: 1793105261970
+      modified: 1793105272416
+      isPrivate: false
+      description: ""
+      sortKey: -1793105261970
+    method: GET
+    settings:
+      renderRequestBody: true
+      encodeUrl: true
+      followRedirects: global
+      cookies:
+        send: true
+        store: true
+      rebuildPath: true
 cookieJar:
   name: Default Jar
   meta:
